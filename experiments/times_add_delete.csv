@@ -1,0 +1,9 @@
+op,chunk_size,time
+add,16,105.12
+add,32,34.36
+add,64,14.33
+add,128,9.19
+delete,16,28.53
+delete,32,10.08
+delete,64,7.55
+delete,128,5.55
