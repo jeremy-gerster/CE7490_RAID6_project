@@ -4,7 +4,7 @@ from src.raid6.RAID6_bin import RAID6
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 main_dir = os.path.dirname(current_dir)
-data_dir = os.path.join(main_dir, 'RAID6_project/data')
+data_dir = os.path.join(main_dir, 'CE7490_RAID6_project/data')
 raid_dirs = os.path.join(data_dir, 'test_dirs')
 
 total_time = 0
